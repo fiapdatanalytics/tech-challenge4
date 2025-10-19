@@ -1,0 +1,52 @@
+[
+  {
+    "valores_originais": [
+      "Female",
+      "Male"
+    ],
+    "mapa": {
+      "Female": 0,
+      "Male": 1
+    }
+  },
+  {
+    "valores_originais": [
+      "no",
+      "yes"
+    ],
+    "mapa": {
+      "no": 0,
+      "yes": 1
+    }
+  },
+  {
+    "valores_originais": [
+      "Always",
+      "Frequently",
+      "Sometimes",
+      "no"
+    ],
+    "mapa": {
+      "Always": 3,
+      "Frequently": 2,
+      "Sometimes": 1,
+      "no": 0
+    }
+  },
+  {
+    "valores_originais": [
+      "Automobile",
+      "Bike",
+      "Motorbike",
+      "Public_Transportation",
+      "Walking"
+    ],
+    "mapa": {
+      "Automobile": 0,
+      "Bike": 1,
+      "Motorbike": 2,
+      "Public_Transportation": 3,
+      "Walking": 4
+    }
+  }  
+]

@@ -1,0 +1,9 @@
+{
+ "Normal_Weight": "peso_normal",
+ "Overweight_Level_I": "sobrepeso_tipo_1",
+ "Overweight_Level_II": "sobrepeso_tipo_2",
+ "Obesity_Type_I": "obesidade_tipo_1",
+ "Insufficient_Weight": "peso_insuficiente",
+ "Obesity_Type_II": "obesidade_tipo_2",
+ "Obesity_Type_III": "obesidade_tipo_3"
+}
