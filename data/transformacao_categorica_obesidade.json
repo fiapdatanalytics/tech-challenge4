@@ -1,32 +1,32 @@
 [
   {
-    "valores_originais": [
+    "valores_originais_genero": [
       "Female",
       "Male"
     ],
-    "mapa": {
+    "mapa_genero": {
       "Female": 0,
       "Male": 1
     }
   },
   {
-    "valores_originais": [
+    "valores_originais_sim_nao": [
       "no",
       "yes"
     ],
-    "mapa": {
+    "mapa_sim_nao": {
       "no": 0,
       "yes": 1
     }
   },
   {
-    "valores_originais": [
+    "valores_originais_frequencia": [
       "Always",
       "Frequently",
       "Sometimes",
       "no"
     ],
-    "mapa": {
+    "mapa_frequencia": {
       "Always": 3,
       "Frequently": 2,
       "Sometimes": 1,
@@ -34,14 +34,14 @@
     }
   },
   {
-    "valores_originais": [
+    "valores_originais_mtrans": [
       "Automobile",
       "Bike",
       "Motorbike",
       "Public_Transportation",
       "Walking"
     ],
-    "mapa": {
+    "mapa_mtrans": {
       "Automobile": 0,
       "Bike": 1,
       "Motorbike": 2,
@@ -49,4 +49,5 @@
       "Walking": 4
     }
   }  
+
 ]
