@@ -15,8 +15,8 @@
       "yes"
     ],
     "transformacao_sim_nao": {
-      "no": nao,
-      "yes": sim
+      "no": "nao",
+      "yes": "sim"
     }
   },
   "mapeamento_frequencia": {
@@ -112,3 +112,4 @@
 
 
 }
+
