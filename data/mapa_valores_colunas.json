@@ -5,8 +5,8 @@
       "Male"
     ],
     "transformacao_genero": {
-      "Female": 0,
-      "Male": 1
+      "Female": "feminino",
+      "Male": "masculino"
     }
   },
   "mapeamento_sim_nao": {
@@ -15,8 +15,8 @@
       "yes"
     ],
     "transformacao_sim_nao": {
-      "no": 0,
-      "yes": 1
+      "no": nao,
+      "yes": sim
     }
   },
   "mapeamento_frequencia": {
